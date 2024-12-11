@@ -193,7 +193,25 @@ Mampu mengidentifikasi dan menjelaskan perbedaan jenis blog|Uraian|5
   - Berbagi pengetahuan
   - Membangun jaringan atau relasi 
 - Ada beberapa **layanan blog gratis**, di antaranya Blogger dan WordPress.com.
+- **Jenis blog** yang ada saat ini
+  - Blog Pribadi
+  - Blog Profesional
+  - Blog Bisnis
+  - Blog Berita
+  - Blog Niche
+  - Blog Microblogging
 - **Perbedaan jenis blog** dapat dilihat dari tujuan, topik, dan cara pembagian kategorinya
+- Untuk membuat blog, Anda bisa menggunakan platform seperti Blogger atau WordPress: 
+  - **Blogger:**
+    1. Login ke Blogger.com 
+    2. Klik panah bawah di sebelah kiri 
+    3. Klik Blog baru 
+    4. Masukkan nama blog 
+    5. Klik Berikutnya 
+    6. Pilih URL atau alamat blog 
+    7. Klik Simpan 
+  - **WordPress:** <br>
+    WordPress bisa digunakan secara gratis atau berbayar. WordPress.com adalah layanan hosting WordPress yang dibuat oleh WordPress. 
 - Blog memiliki berbagai kegunaan, di antaranya:
   - Media publikasi
   - Menghasilkan uang
