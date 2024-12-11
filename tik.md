@@ -225,3 +225,4 @@ Pencahayaan: Perhatikan tata cahaya untuk menghasilkan video berkualitas.
 - **Contoh aplikasi** vlogger yang open-source adalah *openshoot*
 
 ###### Danu dongok, mwhehehe :v
+###### Kikir woi, aowkowkw
