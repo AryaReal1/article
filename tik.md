@@ -176,6 +176,8 @@ Mampu menyebutkan jenis-jenis blog|JD|7
 Mampu mengidentifikasi dan menjelaskan pengertian blog|Uraian|4
 Mampu mengidentifikasi dan menjelaskan perbedaan jenis blog|Uraian|5
 
+- **Blog** adalah situs web yang berisi konten yang diperbarui secara berkala dan dikelola oleh individu atau kelompok.
+- Blog merupakan platform digital yang populer untuk berbagi informasi, ide, dan pengalaman.
 - Cara mengakses blog di Google adalah:
   1. Buka halaman pencarian Google
   2. Klik Berita
