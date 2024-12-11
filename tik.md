@@ -50,9 +50,9 @@ Indikator|Bentuk Soal|Nomer Soal
 Mampu mengenal dan menjelaskan arti penulisan algoritma|PG|1
 Mampu memahami dan mengidentifikasi langkah dan proses algoritma|PG|2
 Mampu membaca dan mengartikan simbol flowchart|PG|4,5
-Mampu menyebutkan tanda alur flowchart|MJ|6
-Mampu membaca penulisan simbol flowchart|BS|3
 Mampu mengidentifikasi arti pembacaan flowchart program|PG|29,30
+Mampu membaca penulisan simbol flowchart|BS|3
+Mampu menyebutkan tanda alur flowchart|MJ|6
 Mampu menjelasakan dan mengidentifikasi tujuan pembuatan flowchart|Uraian|1
 
 - **Algoritma** adalah suatu langkah atau metode yang telah direncanakan secara matang sehingga terurut dan terorganisir dengan baik dan biasanya digunakan untuk memecahkan suatu masalah dengan memberikan suatu instruksi sehingga menjadi suatu tindakan.
@@ -66,8 +66,8 @@ Mampu menjelasakan dan mengidentifikasi tujuan pembuatan flowchart|Uraian|1
 ### Ekspresi dan Operasi Logika
 Indikator|Bentuk Soal|Nomer Soal
 ---|:---:|:---:
-Mampu mengidentifikasi proses operasi relasi|MJ|2
 Mampu memahami dan mengidentifikasi fungsi logika|PG|3
+Mampu mengidentifikasi proses operasi relasi|MJ|2
 
 - **Operasi relasi** adalah operasi yang digunakan untuk membandingkan dua nilai atau objek untuk menentukan hubungannya apakah dua nilai dalam suatu ekspresi **benar (1)** atau **tidak (0)**. <br>![Operasi Relasi](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHYdMkhJ3sf1fxRIv_IIPdcnw7YHaCHvrd7k_mQ-cJQTeQT2wqN-OUiVVg&s=10)
 - **Fungsi logika** adalah fungsi yang digunakan untuk menganalisis data, menetapkan nilai yang relevan, dan memecahkan masalah berkaitan dengan penilaian benar atau salah.
@@ -102,14 +102,14 @@ Mampu mengidentifikasi fungsi CPU komputer|PG|21,22
 ### Aplikasi Perkantoran
 Indikator|Bentuk Soal|Nomer Soal
 ---|:---:|:---:
+Mampu mengidentifikasi dan memahami layanan internet|PG|7,9
+Mampu mengidentifikasi alamat URL|PG|8
 Mampu mengidentifikasi pengelolaan berkas dalam komputer|PG|23
 Mampu mengenal dan mengidentifikasi tab menu pengolah kata dan fasilitas huruf pengolah kata|PG|24,25
 Mampu mengenal dan mengidentifikasi ikon-ikon pengolah kata|PG|26,27,28
-Mampu menyebutkan program aplikasi pengolah kata|Uraian|2
 Mampu menyebutkan aplikasi mengakses internet|MJ|4
 Mampu menyebutkan mesin pencari mengakses internet|MJ|5
-Mampu mengidentifikasi alamat URL|PG|8
-Mampu mengidentifikasi dan memahami layanan internet|PG|7,9
+Mampu menyebutkan program aplikasi pengolah kata|Uraian|2
 
 - **Pengelola berkas** atau file manager adalah perangkat lunak yang menyediakan antarmuka untuk mengelola berkas dan folder.
 - Berikut adalah **toolbar di MSWord**: <br>![MS Word Toolbar](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRT-4oav-Uy3568Bs9LZYbh3ht80p0Hpi2d_EYyNkEZnmVt1fX9pGmV0Y&s=10)
@@ -133,11 +133,11 @@ Indikator|Bentuk Soal|Nomer Soal
 ---|:---:|:---:
 Mampu mengidentifikasi tentang arti email|PG|6
 Mampu mengidentifikasi dan mengenal istilah layanan email|PG|10,11
+Mampu menjelaskan dan mengidentifikasi pemanfaatan menggunakan email|PG|12,13,14
 Mampu mengidentifikasi tujuan layanan email|BS|8
 Mampu menjelaskan tujuan layanan email|JD|1
 Mampu mengidentifikasi alamat email|JD|3
 Mampu menyebutkan fungsi email|JD|9
-Mampu menjelaskan dan mengidentifikasi pemanfaatan menggunakan email|PG|12,13,14
 
 - **Email** adalah surat elektronik atau electronic mail yang merupakan metode untuk mengirim pesan secara digital melalui internet.
 - Berikut adalah beberapa istilah terkait layanan email:
@@ -169,12 +169,12 @@ Indikator|Bentuk Soal|Nomer Soal
 ---|:---:|:---:
 Mampu mengidentifikasi pembuatan blog serta bagaimana cara akses dan pemanfaatannya|PG|15,16
 Mampu mengidentifikasi bagaimana cara akses dan pemanfaatan blog|PG|17,18
+Mampu mengidentifikasi kegunaan publikasi blog|BS|9
 Mampu menyebutkan layanan blog gratis|JD|8
 Mampu menyebutkan bagian pembuatan suatu blog|JD|10
 Mampu menyebutkan jenis-jenis blog|JD|7
 Mampu mengidentifikasi dan menjelaskan pengertian blog|Uraian|4
 Mampu mengidentifikasi dan menjelaskan perbedaan jenis blog|Uraian|5
-Mampu mengidentifikasi kegunaan publikasi blog|BS|9
 
 - Cara mengakses blog di Google adalah:
   1. Buka halaman pencarian Google
