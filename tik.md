@@ -1,4 +1,4 @@
-# Kisi-Kisi Informatika Kelas IX
+# Informatika - ASAS I - Kelas IX
 
 ## Daftar Isi
 - **[Bab 2 - Berpikir Komputasional](#bab-2---berpikir-komputasional)**
@@ -13,6 +13,12 @@
   - [Vlog](#vlog)
 
 **\*** Terdapat kisi-kisi uraian
+Bentuk Soal|Singkatan|Jumlah Soal
+---|---|---
+Pilihan Ganda|PG|30
+Benar atau Salah|BS|10
+Menjodohkan|JD|10
+Uraian||5
 
 <br>
 
@@ -52,7 +58,7 @@ Mampu memahami dan mengidentifikasi langkah dan proses algoritma|PG|2
 Mampu membaca dan mengartikan simbol flowchart|PG|4,5
 Mampu mengidentifikasi arti pembacaan flowchart program|PG|29,30
 Mampu membaca penulisan simbol flowchart|BS|3
-Mampu menyebutkan tanda alur flowchart|MJ|6
+Mampu menyebutkan tanda alur flowchart|JD|6
 Mampu menjelasakan dan mengidentifikasi tujuan pembuatan flowchart|Uraian|1
 
 - **Algoritma** adalah suatu langkah atau metode yang telah direncanakan secara matang sehingga terurut dan terorganisir dengan baik dan biasanya digunakan untuk memecahkan suatu masalah dengan memberikan suatu instruksi sehingga menjadi suatu tindakan.
@@ -67,7 +73,7 @@ Mampu menjelasakan dan mengidentifikasi tujuan pembuatan flowchart|Uraian|1
 Indikator|Bentuk Soal|Nomer Soal
 ---|:---:|:---:
 Mampu memahami dan mengidentifikasi fungsi logika|PG|3
-Mampu mengidentifikasi proses operasi relasi|MJ|2
+Mampu mengidentifikasi proses operasi relasi|JD|2
 
 - **Operasi relasi** adalah operasi yang digunakan untuk membandingkan dua nilai atau objek untuk menentukan hubungannya apakah dua nilai dalam suatu ekspresi **benar (1)** atau **tidak (0)**. <br>![Operasi Relasi](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHYdMkhJ3sf1fxRIv_IIPdcnw7YHaCHvrd7k_mQ-cJQTeQT2wqN-OUiVVg&s=10)
 - **Fungsi logika** adalah fungsi yang digunakan untuk menganalisis data, menetapkan nilai yang relevan, dan memecahkan masalah berkaitan dengan penilaian benar atau salah.
@@ -107,8 +113,8 @@ Mampu mengidentifikasi alamat URL|PG|8
 Mampu mengidentifikasi pengelolaan berkas dalam komputer|PG|23
 Mampu mengenal dan mengidentifikasi tab menu pengolah kata dan fasilitas huruf pengolah kata|PG|24,25
 Mampu mengenal dan mengidentifikasi ikon-ikon pengolah kata|PG|26,27,28
-Mampu menyebutkan aplikasi mengakses internet|MJ|4
-Mampu menyebutkan mesin pencari mengakses internet|MJ|5
+Mampu menyebutkan aplikasi mengakses internet|JD|4
+Mampu menyebutkan mesin pencari mengakses internet|JD|5
 Mampu menyebutkan program aplikasi pengolah kata|Uraian|2
 
 - **Pengelola berkas** atau file manager adalah perangkat lunak yang menyediakan antarmuka untuk mengelola berkas dan folder.
