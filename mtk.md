@@ -1,4 +1,4 @@
-## Rangkuman Materi Matematika Kelas IX
+## Materi Matematika Kelas IX
 
 ### Bangun Ruang Sisi Lengkung (BRSL)
 
