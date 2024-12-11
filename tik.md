@@ -224,4 +224,4 @@ Pencahayaan: Perhatikan tata cahaya untuk menghasilkan video berkualitas.
 - **Open source** adalah perangkat lunak atau kode pemrograman komputer yang dapat digunakan dan dikembangkan secara bebas oleh siapa saja. Kode sumbernya terbuka untuk umum, sehingga pengguna dapat melihat cara kerja perangkat lunak tersebut dan memperbaiki kelemahan-kelemahannya.
 - **Contoh aplikasi** vlogger yang open-source adalah *openshoot*
 
-#### Budi, mwhehehe :v
+###### Danu dongok, mwhehehe :v
