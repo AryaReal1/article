@@ -12,7 +12,7 @@
 Indikator|Bentuk Soal|Nomor Soal
 ---|:---:|:---:
 Menjelaskan [pengertian](#definition-ps) perubahan sosial menurut para ahli|PG|1
-Menganalisis [contoh bentuk](#type-ps) perubahan sosial yang ada dalam masyarakat|PG<br>BS<br>Uraian|2<br>3<br>1
+Menganalisis [contoh bentuk](#type-ps) perubahan sosial yang ada dalam masyarakat|PG<br>BS<br>[Uraian](#)|2<br>3<br>1
 Mengidentifikasi [faktor eksternal](#external-factor-ps) perubahan sosial|PG<br>JD|3<br>1
 Mengidentifikasi [faktor internal](#internal-factor-ps) perubahan sosial|PG|4
 Menganalisa sikap masyarakat [akibat](#impact-ps) penyesuaian dari perubahan sosial|PG|5
@@ -86,7 +86,7 @@ Indikator|Bentuk Soal|Nomer Soal
 Menjelaskan [pengertian](#definition-m) modernisasi|PG|10
 Menganalisis [titik awal era modernisasi](#first-m) di Indonesia pada masa kolonial|PG|11
 Mengidentifikasi [ciri-ciri](#characteristics-m) masyarakat modern|PG<br>BS|12<br>1
-Menganalisis [contoh femonena](#example-m) modernisasi dalam kehidupan sehari-hari|Uraian|2
+Menganalisis [contoh femonena](#example-m) modernisasi dalam kehidupan sehari-hari|[Uraian](#)|2
 
 <a name="definition-m"></a>
 - **Modernisasi** adalah sebuah proses menuju cara-cara masa kini.[^5]
